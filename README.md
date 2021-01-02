@@ -1,6 +1,6 @@
-This repository contains a Jupyter Notebook containing information regarding teh release of the new fantasy game, Heroes of Pymoli.
+This repository contains a Jupyter Notebook analyzing purchases made in the new fantasy game, Heroes of Pymoli.
 This file breaks down the game's purchasing data into smaller insights.
-These insights include:
+They include:
   * Player Count
   * Purchasing Analysis (Total)
   * Gender Demographics
